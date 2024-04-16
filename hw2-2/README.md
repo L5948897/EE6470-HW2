@@ -1,3 +1,3 @@
-# sobel_tlm_p2p
+# Gaussian Blur Filter with quantum keeper
 
-Sobel filter module with TLM P2P interfaces.
+Gaussian Blur Filter with quantum keeper
